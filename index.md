@@ -30,7 +30,7 @@
     </div>
    
        
-    </div>
+
     <div class="figuraFinal"><p style="text-align: left;">Fonte: HARNUM, Jonathan. <strong>The Practice of Practice</strong>: How to Boost Your Music Skills. Sol Ut Press, 2014. 258 p.</p>
     </div>
     <div>
