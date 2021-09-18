@@ -1,0 +1,77 @@
+
+.titulo{
+    //border: 0 solid;
+    flex-grow:inherit;
+    font-size: 2rem;
+    font-family: 'Anton', sans-serif;
+    //width: 50%;
+    //height: 200px;
+    margin: 1px;
+    padding: 10px;
+    position: relative;
+    color: #886610;
+    display: flex;
+    justify-content:center
+    
+  }
+.apresentacao{
+    //border: 0 solid;
+    flex-grow:inherit;
+    font-size: 1.3rem;
+    font-family: 'Kaisei HarunoUmi', serif;
+    //width: 50%;
+    //height: 200px;
+    margin: 1px;
+    padding: 10px;
+    position: relative;
+
+}
+.origemDoTexto{
+    font-family: 'Anton', sans-serif;
+    //border: 1px solid;
+    flex-grow:inherit;
+    font-size: 1rem;
+    font-family: 'Kaisei HarunoUmi', serif;
+    width: 50%;
+    //height: 100%;
+    margin: 30px;
+    padding: 10px;
+    position: relative; 
+   // display: flex;
+   // justify-content:left
+    
+
+}
+.blocos {
+    display: flex;
+    //flex-direction: row-reverse;
+    flex-wrap: wrap;
+    //justify-content: space-between;
+    gap: 10px 10px;
+    
+}
+.item {
+    border: 1px solid;
+    width:100%;
+    height: 100%;
+    flex-grow:inherit;
+    font-size: 1.5rem;
+    font-family: 'Anton', sans-serif;
+    margin: 10px 10px;
+    padding: 5px;
+    position: relative;
+    background-color: rgb(106, 163, 173);
+    box-shadow: 5px 5px #888888;
+    border-radius: 16px;
+       }
+
+   .item-1{
+       order: 1;
+      
+   }
+
+   .item-2 {
+    order: 2;
+    
+   }    
+}
