@@ -34,7 +34,7 @@
     <div class="figuraFinal"><p style="text-align: left;">Fonte: HARNUM, Jonathan. <strong>The Practice of Practice</strong>: How to Boost Your Music Skills. Sol Ut Press, 2014. 258 p.</p>
     </div>
     <div>
-    <img src=https://raw.githubusercontent.com/GlauberLASantiago/desenvolvimentoMusical/main/image-1588059845IJ0.jpg>
+    <img src="https://raw.githubusercontent.com/GlauberLASantiago/desenvolvimentoMusical/main/image-1588059845IJ0.jpg">
     
 </div>
 
